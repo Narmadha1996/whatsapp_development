@@ -1,3 +1,4 @@
 creating to put status train
 uploading images
 uploading video
+hiding last seen status
